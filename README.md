@@ -16,5 +16,5 @@ npx cypress open
 After Cypress opening select file from the list to start the test.
 
 ##Test documentation
-
+In the `./testDocumentation` directory you can find my checklists, drafts of test design technics.
 
