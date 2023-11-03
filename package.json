@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "cypress": "^9.5.4"
+    "cypress": "^9.5.4",
+    "prettier": "^3.0.3"
   },
   "scripts": {
     "cypress:open": "cypress open"

@@ -1,7 +1,7 @@
 /// <reference types='Cypress" />
-import {mobileReplenishment} from "../support/pages/mobileReplenishmant";
-import {transfers} from "../support/pages/transfers";
-import {basePage} from "../support/pages/basePage";
+import {mobileReplenishment} from "./mobileReplenishmant";
+import {transfers} from "./transfers";
+import {basePage} from "./basePage";
 
 it('Replenishment of Ukraine mobile phone number', ()=> {
         basePage.open('https://next.privat24.ua/mobile/lang=en')
