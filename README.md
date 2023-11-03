@@ -1,20 +1,20 @@
 # Portfolio
 
-##Description
+## Description
 This is my Portfolio repository where you can find my tests, checklists, drafts of test design technics.
 
-##Tests
-###Installation
+## Tests
+### Installation
 ```js
 npm install
 ```
 
-###How to run
+### How to run
 ```js
 npx cypress open
 ```
 After Cypress opening select file from the list to start the test.
 
-##Test documentation
+## Test documentation
 In the `./testDocumentation` directory you can find my checklists, drafts of test design technics.
 
