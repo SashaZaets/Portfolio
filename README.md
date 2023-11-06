@@ -7,7 +7,6 @@ This is my Portfolio repository where you can find my tests, checklists, drafts 
 `cd playwright`
 ### Installation
 ```js
-npm install
 npm init playwright@latest
 ```
 ### How to run
