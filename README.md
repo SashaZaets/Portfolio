@@ -15,9 +15,6 @@ npm init playwright@latest
 
 `npx playwright test ./tests/login.spec.js` - testing PageObject 
 
-```js
-npx cypress open
-```
 ## Cypress
 ### Installation
 ```js
