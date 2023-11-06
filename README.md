@@ -3,10 +3,26 @@
 ## Description
 This is my Portfolio repository where you can find my tests, checklists, drafts of test design technics.
 
-## Tests
+## Playwright
+`cd playwright`
 ### Installation
 ```js
 npm install
+npm init playwright@latest
+```
+### How to run
+`npx playwright test --ui` - for API testing (choose requests from ./tests/API-testing/apiTests.spec.js)
+
+`npx playwright test ./tests/login.spec.js` - testing PageObject 
+
+```js
+npx cypress open
+```
+## Cypress
+### Installation
+```js
+npm install
+
 ```
 
 ### How to run
